@@ -112,6 +112,7 @@ public class custom_order {
     System.out.printf("The tax is: $%.2f\n", tax);
     System.out.printf("The total due is: $%.2f\n",(tax + cost));
 
-  
+    //BOT IS BROKEN???
+
     }   
 }
